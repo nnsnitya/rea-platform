@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+.idea/rea-platform.iml
+.idea/modules.xml
+.idea/rea-platform.iml
+.idea/vcs.xml
+libraries/rea-model/.gitattributes
