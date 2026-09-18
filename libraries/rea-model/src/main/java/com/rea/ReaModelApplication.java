@@ -1,0 +1,13 @@
+package com.rea;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ReaModelApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ReaModelApplication.class, args);
+	}
+
+}
